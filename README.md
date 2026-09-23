@@ -231,4 +231,12 @@
 
 ---
 
+## 🤖 Book Summarization Prompt
+
+Want to quickly extract the core architectural concepts, key trade-offs, and actionable heuristics without reading an entire book end-to-end?
+
+Check out our [**Book Summary Prompt**](book_summary_prompt.md). You can feed this structured prompt along with any book chapter or technical paper to an LLM to generate an in-depth, production-oriented Persian summary with original English technical terms.
+
+---
+
 *هنر کدنویسی - The Art of Coding*
