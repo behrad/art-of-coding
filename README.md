@@ -10,17 +10,17 @@
 **Authors:** David Thomas & Andrew Hunt  
 **Focus:** Developer mindset, career practices, pragmatic thinking  
 **Why Read:** The foundation of professional software development mindset  
-[📖 Amazon](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+[📖 Amazon](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) · [📥 PDF](ebooks/David%20Thomas%2C%20Andrew%20Hunt%20-%20The%20Pragmatic%20Programmer_%20Your%20Journey%20To%20Mastery%2C%2020th%20Anniversary%20Edition%20%282019%2C%20Addison-Wesley%20Professional%29%20-%20libgen.li.pdf)
 
 ---
 
 ### A Philosophy of Software Design
-![Cover](https://covers.openlibrary.org/b/isbn/173210221X-M.jpg)
+![Cover](https://covers.openlibrary.org/b/id/10352230-M.jpg)
 
 **Author:** John Ousterhout  
 **Focus:** Complexity management, deep vs shallow modules  
 **Why Read:** Best modern book on managing software complexity  
-[📖 Amazon](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X)
+[📖 Amazon](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X) · [📥 PDF](ebooks/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.pdf)
 
 ---
 
@@ -42,7 +42,7 @@
 **Author:** Robert C. Martin  
 **Focus:** Code readability, naming, functions, comments  
 **Why Read:** Industry standard for code quality fundamentals  
-[📖 Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+[📖 Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) · [📥 PDF](ebooks/Clean%20Code_%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20-%20Robert%20C.%20Martin.pdf)
 
 ---
 
@@ -52,7 +52,7 @@
 **Author:** Robert C. Martin  
 **Focus:** SOLID principles, component design, boundaries  
 **Why Read:** Essential for understanding layered architecture  
-[📖 Amazon](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+[📖 Amazon](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) · [📥 PDF](ebooks/Book%20-%20Clean%20Architecture%20-%20Robert%20Cecil%20Martin.pdf)
 
 ---
 
@@ -62,7 +62,7 @@
 **Author:** Martin Fowler  
 **Focus:** Code improvement techniques, refactoring catalog  
 **Why Read:** The definitive guide to improving existing code  
-[📖 Amazon](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
+[📖 Amazon](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) · [📥 PDF](ebooks/Martin%20Fowler%20-%20Refactoring%20-%20Improving%20the%20Design%20of%20Existing%20Code.pdf)
 
 ---
 
@@ -72,7 +72,7 @@
 **Author:** Michael Feathers  
 **Focus:** Testing legacy code, breaking dependencies  
 **Why Read:** Essential for real-world codebases  
-[📖 Amazon](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+[📖 Amazon](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) · [📥 PDF](ebooks/%5BRobert%20C.%20Martin%20series%5D%20Feathers%2C%20Michael%20C%20-%20Working%20effectively%20with%20legacy%20code%20%282013%2C%20Prentice%20Hall%20PTR%29%20-%20libgen.li.pdf)
 
 ---
 
@@ -84,7 +84,7 @@
 **Authors:** Eric Freeman & Elisabeth Robson  
 **Focus:** Design patterns with visual learning  
 **Why Read:** Most accessible introduction to design patterns  
-[📖 Amazon](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+[📖 Amazon](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) · [📥 PDF](ebooks/Head%20First%20Design%20Patterns%202nd%20Edition%20by%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf)
 
 ---
 
@@ -94,7 +94,7 @@
 **Authors:** Gamma, Helm, Johnson, Vlissides  
 **Focus:** The 23 classic design patterns  
 **Why Read:** The original pattern bible - reference book  
-[📖 Amazon](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+[📖 Amazon](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) · [📥 PDF](ebooks/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides%20-%20Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software-addison-wesley%20%281994%29.pdf)
 
 ---
 
@@ -104,7 +104,7 @@
 **Author:** Martin Fowler  
 **Focus:** Enterprise patterns, data access, web presentation  
 **Why Read:** Essential patterns for business applications  
-[📖 Amazon](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+[📖 Amazon](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) · [📥 PDF](ebooks/Patterns%20of%20Enterprise%20Application%20Architecture.pdf)
 
 ---
 
@@ -116,7 +116,7 @@
 **Author:** Eric Evans  
 **Focus:** Strategic & tactical DDD patterns  
 **Why Read:** The foundational DDD text  
-[📖 Amazon](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+[📖 Amazon](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) · [📥 PDF](ebooks/Evans%2C%20Eric%20-%20Domain-driven%20design_%20tackling%20complexity%20in%20the%20heart%20of%20software%20%282014%2C%20Addison-Wesley%29%20-%20libgen.li.pdf)
 
 ---
 
@@ -180,7 +180,7 @@
 **Author:** Kent Beck  
 **Focus:** TDD fundamentals, red-green-refactor  
 **Why Read:** Learn TDD from its creator  
-[📖 Amazon](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+[📖 Amazon](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) · [📥 PDF](ebooks/kent-beck-test-driven-development-by-example.pdf)
 
 ---
 
@@ -192,7 +192,7 @@
 **Authors:** Mark Richards & Neal Ford  
 **Focus:** Architecture styles, patterns, decisions  
 **Why Read:** Comprehensive modern architecture overview  
-[📖 Amazon](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+[📖 Amazon](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451) · [📥 PDF](ebooks/Fundamentals%20of%20Software%20Architecture.pdf)
 
 ---
 
